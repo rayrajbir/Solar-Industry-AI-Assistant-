@@ -72,12 +72,6 @@ Analyze rooftops from satellite images and generate accurate solar potential ass
 ```bash
 streamlit run app.py
 ```
-
-### Option 2: Gradio
-```bash
-python gradio_app.py
-```
-
 ---
 
 ## 💼 Example Use Cases
